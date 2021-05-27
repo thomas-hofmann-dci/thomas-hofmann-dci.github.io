@@ -60,8 +60,7 @@ function Dashboard() {
 function Footer() {
   return (
     <footer>
-      URL: {process.env.PUBLIC_URL.origin}
-
+      Footer
     </footer>
   );
 }
